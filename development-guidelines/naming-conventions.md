@@ -103,6 +103,8 @@ FormExtensions\SalesAgreement.Extension_PRJ
 ## Fields
 Fields on table extensions should be named with postfix <b>_PRJ</b><br/>
 Fields on new tables are created without postfix.
+The CacheLookup field should be filled in. Performance note: This can help increase performance in Microsoft Dynamics AX.
+
 
 Examples:
 
